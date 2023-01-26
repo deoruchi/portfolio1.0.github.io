@@ -248,6 +248,7 @@ margin-bottom: 5%;
         margin: 4%;
         text-decoration: none;
         color: var(--prussian-blue);
+        font-size: 1.25rem;
         transition: all ease 1s;
     }
     
@@ -256,6 +257,8 @@ margin-bottom: 5%;
         color: white;
     
     }
+
+ 
      /*intro*/
         .logo{
             width: 10%;
