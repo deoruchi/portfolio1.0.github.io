@@ -229,7 +229,6 @@ margin-bottom: 5%;
         padding-bottom: .5%;
     }
 
-
     /*header*/
 
     .menu_close{
@@ -378,6 +377,7 @@ margin-bottom: 5%;
 @media (min-width:1020px) {
     .ig_ill{
         display: block;
+        z-index: 90;
     }
     .name{
         font-size: 7rem;   
